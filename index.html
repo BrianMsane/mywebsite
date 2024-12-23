@@ -3,44 +3,69 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
     <title>Brian's Portfolio</title>
   </head>
   <body>
-    <h1>Thandokuhle Brian Msane</h1>
     <!--Navigation bar-->
-    <ul>
-      <li>Contact</li>
-      <li>About me</li>
-      <li>School</li>
-      <li>Certifications</li>
-      <li>Competitions</li>
-      <li>Conferences</li>
-      <li>CV</li>
-    </ul>
+    <header>
+      <nav>
+        <ul class="nav-menu" style="list-style: none">
+          <li><a href="./public/contact.html">Contact</a></li>
+          <li><a href="./public/education.html">School</a></li>
+          <li><a href="./public/certificates.html">Certifications</a></li>
+          <li><a href="./public/competitions.html">Competitions</a></li>
+          <li><a href="./public/conferences.html">Conferences</a></li>
+          <li><a href="./public/cv.html">CV</a></li>
+        </ul>
+      </nav>
+    </header>
+
     <!--Body-->
+    <h1>Thandokuhle Brian Msane</h1>
+    <h2>It's nice to meet you!</h2>
 
     <div id="left_text">
       <p>
-        Information Technology Undergraduate <br />
-        Machine Learning Junior Engineer <br />
+        IT Undergraduate <br />
+        ML Engineer <br />
         NLP Junior Researcher<br />
-        Software Engineer<br />
+        Junior Software Engineer<br />
         DevOps Engineer<br />
-        Data Scientist<br />
+        Data Scientist/Engineer<br />
       </p>
+    </div>
+    <img src="./assets/images/brian.jpg" alt="My photo" style="width: 800px" />
+    <div class="right_text">
+      I am a passionate developer who is particulary interested in data
+      engineering, software development, artificial intelligence, and DevOps
     </div>
   </body>
   <footer>
-    <p>&copy; BrianMsane</p>
-    <i class="fab fa-github"></i>
-    <i class="fab fa-linkedin"></i>
-    <i class="fab fa-leetcode"></i>
-
-    <ul>
-      <li>github</li>
-      <li>zindi</li>
-      <li>linkedin</li>
-      <li>leetcode</li>
+    <ul style="list-style: none">
+      <li>&copy; Brian Msane</li>
+      <li>
+        <a href="https://github.com/BrianMsane"
+          ><i class="fab fa-github"></i
+        ></a>
+      </li>
+      <li>
+        <a href="https://www.linkedin.com/in/thandokuhle-msane-a3b387290">
+          <i class="fab fa-linkedin"></i
+        ></a>
+      </li>
+      <li>
+        <a href="https://zindi.africa/users/uno"
+          ><img
+            src="./assets/images/zindi.png"
+            alt="zindi profile"
+            style="height: 50px; width: 50px"
+        /></a>
+      </li>
+      <li><a href="./public/contact.html"></a><i class="fa fa-phone"></i></li>
     </ul>
   </footer>
 </html>
