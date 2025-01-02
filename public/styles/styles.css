@@ -4,7 +4,17 @@
 }
 
 h1 {
-  align-content: center;
+  align-self: center;
   color: cadetblue;
   font-size: 50px;
+  padding: 5px;
+}
+
+.uneswa {
+  align-content: center;
+}
+
+a {
+  color: blue;
+  font-weight: bold;
 }
