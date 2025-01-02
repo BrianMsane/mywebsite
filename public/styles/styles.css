@@ -1,20 +1,60 @@
 * {
   background-color: rgb(178, 175, 175);
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin: 10px;
+  box-sizing: border-box;
 }
 
 h1 {
-  align-self: center;
+  text-align: center;
   color: cadetblue;
   font-size: 50px;
-  padding: 5px;
+}
+
+.navbar {
+  background-color: #f9f9f9;
+  padding: 10px 0;
+  width: 100%;
+  top: 0;
+  /* z-index: 999; */
+}
+
+.nav-menu {
+  display: flex;
+  list-style: none;
+}
+
+.nav-menu li {
+  margin-left: 60px;
+}
+
+.nav-menu a {
+  color: #009688;
+  transition: color 0.3s;
 }
 
 .uneswa {
-  align-content: center;
+  text-align: center;
 }
 
 a {
-  color: blue;
+  color: aquamarine;
   font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fff;
+  font-weight: bolder;
+}
+
+li {
+  list-style: none;
+  font-size: large;
+  color: aqua;
+}
+
+img {
+  /* display: inline; */
+  display: block;
 }

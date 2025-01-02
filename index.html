@@ -3,8 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="./styles/styles.css" />
-    <link rel="stylesheet" href="./styles/normalize.css" />
+    <link rel="stylesheet" href="./public/styles/styles.css" />
+    <link rel="stylesheet" href="./public/styles/normalize.css" />
     <link rel="icon" href="../assets/images/brian.jpg" />
     <link
       rel="stylesheet"
@@ -16,59 +16,42 @@
     <!--Navigation bar-->
     <header>
       <nav>
-        <ul class="nav-menu" style="list-style: none">
-          <li><a href="./public/contact.html">Contact</a></li>
-          <li><a href="./public/education.html">School</a></li>
-          <li><a href="./public/certificates.html">Certifications</a></li>
-          <li><a href="./public/competitions.html">Competitions</a></li>
-          <li><a href="./public/conferences.html">Conferences</a></li>
-          <li><a href="./public/cv.html">CV</a></li>
-        </ul>
+        <div class="container">
+          <ul class="nav-menu">
+            <li><a href="./public/contact.html">Contact</a></li>
+            <li><a href="./public/education.html">School</a></li>
+            <li><a href="./public/certificates.html">Certifications</a></li>
+            <li><a href="./public/competitions.html">Competitions</a></li>
+            <li><a href="./public/conferences.html">Conferences</a></li>
+            <li><a href="./public/cv.html">CV</a></li>
+          </ul>
+        </div>
       </nav>
     </header>
+    <br /><br />
 
     <!--Body-->
     <h1>Thandokuhle Brian Msane</h1>
-    <h2>It's nice to meet you!</h2>
 
-    <div id="left_text">
+    <div id="left_text" style="text-align: left">
+      <ul>
+        <li>IT Undergraduate</li>
+        <li>AI Engineer</li>
+        <li>Data Scientist/Engineer</li>
+        <li>NLP Researcher</li>
+        <li>Software Engineer</li>
+        <li>DevOps Engineer</li>
+      </ul>
+    </div>
+
+    <img src="./assets/images/brian.jpg" alt="My photo" style="width: 800px" />
+
+    <div class="right_text">
       <p>
-        IT Undergraduate <br />
-        ML Engineer <br />
-        NLP Junior Researcher<br />
-        Junior Software Engineer<br />
-        DevOps Engineer<br />
-        Data Scientist/Engineer<br />
+        I am a passionate developer who is particulary interested in data
+        engineering &amp science, software development, artificial intelligence,
+        and DevOps.
       </p>
     </div>
-    <img src="./assets/images/brian.jpg" alt="My photo" style="width: 800px" />
-    <div class="right_text">
-      I am a passionate developer who is particulary interested in data
-      engineering, software development, artificial intelligence, and DevOps
-    </div>
   </body>
-  <footer>
-    <ul style="list-style: none">
-      <li>&copy; Brian Msane</li>
-      <li>
-        <a href="https://github.com/BrianMsane"
-          ><i class="fab fa-github"></i
-        ></a>
-      </li>
-      <li>
-        <a href="https://www.linkedin.com/in/thandokuhle-msane-a3b387290">
-          <i class="fab fa-linkedin"></i
-        ></a>
-      </li>
-      <li>
-        <a href="https://zindi.africa/users/uno"
-          ><img
-            src="./assets/images/zindi.png"
-            alt="zindi profile"
-            style="height: 50px; width: 50px"
-        /></a>
-      </li>
-      <li><a href="./public/contact.html"></a><i class="fa fa-phone"></i></li>
-    </ul>
-  </footer>
 </html>
