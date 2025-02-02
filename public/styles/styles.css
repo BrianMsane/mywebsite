@@ -11,6 +11,11 @@ h1 {
   font-size: 50px;
 }
 
+.unsvg {
+  width: 24px;
+  height: 24px;
+}
+
 .navbar {
   background-color: #f9f9f9;
   padding: 10px 0;
@@ -48,11 +53,11 @@ a:hover {
   font-weight: bolder;
 }
 
-li {
+/* li {
   list-style: none;
   font-size: large;
   color: aqua;
-}
+} */
 
 img {
   /* display: inline; */
