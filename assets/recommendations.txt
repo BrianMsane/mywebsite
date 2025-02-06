@@ -1,0 +1,44 @@
+
+- Prof Fashoto (Lecturer and Mentor)
+    - Senior lecturer 
+    - 
+    Brian is smart, passionate, and hardworking boy doing BSc in IT at UNESWA. I started recognizinig him in my classes
+    during his first year as he could always standout. he also caught my attention when he was tirelessly working on a 
+    hackathon in 2022 - his efforts surpassed my expectation given that he was still in first year. From then I took him under my 
+    mentorship and he has already attended one of the prestigious conference in AI which is IJCAI. with my supervision, he
+    made a study on the applications of tree-based algorithms for financial inclusion in africa and he was selected to present
+    that study in the conference. in addition to that, he has done so many project while learning machine learning, naturual language process,
+    computer vision, and explainable AI.
+
+
+- Jeremiah (CEO and Chief Data Scientist and eTihuku Technologies)
+    - eTihuku intership
+    - 
+    during his intership at eTihuku Technologies, brian really showcased his skills and ability to learn within a short period of time.
+    All the tasks allocated to him were accomplished within the given time and if he had challenges, he would consult his manager and the
+    other members of the data team to seek for solutions. what could stick out to me is the hunger for knowledge and the incredible rate of 
+    knowledge absorption which led to the success of his first ever professional intership. it is the culture of our company to have
+    knowledge sharing sessions and he beautifly delivered two well-researched presentations during this intership. I can safely say that in a
+    few years, he will be one of the best data Scientist.
+
+- Prof Hatem (mentor under DLI mentorship)
+    - advising and writing a paper
+    - 
+    I met Brian when he was assigned for my assistance in the deep learning indaba mentoring programme. at the time, he was 
+    planning to do research on sentiment analysis in Swahili and with the little time we had, we were able to start new project
+    from scratch. I encouraged him to collect data on social media platforms, clean, annotate, and visualize it for his own language, siSwati. He came back with a report
+    in just two weeks time and I guided him, together with his colleague, to experiemnt different machine and deep learning models.
+    Thereafter we worked collaboratively on writing a paper title "siSwatiSent: Sentiment Analysis Dataset for siSwati".
+
+- Liam (VP and co-CTO at Nubi)
+    - Job at Nubi
+
+- Philile (research)
+    - research experience
+
+for each recommendation I need:
+> current position held by reference
+> relationship or what linked me with the reference
+> picture(straight from linkedin)
+> linkedin account(icon with a hyperlink)
+> Text section(italic and between quotes)
