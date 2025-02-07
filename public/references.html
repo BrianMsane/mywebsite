@@ -3,44 +3,106 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="./styles/styles.css" />
     <link rel="stylesheet" href="./styles/normalize.css" />
+    <link rel="stylesheet" href="./styles/styles.css" />
     <link rel="icon" href="../assets/images/dev.jpg" />
     <title>References</title>
     <style>
-      img {
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f9;
+        margin: 0;
+        padding: 20px;
+      }
+
+      h1 {
+        text-align: center;
+        margin-bottom: 40px;
+      }
+
+      .ref {
         width: 400px;
-        height: 400px;
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        margin: 20px auto;
+        padding: 20px;
+        display: flex;
+        align-items: center;
+      }
+
+      .ref img {
+        width: 100px;
+        height: 100px;
         border-radius: 50%;
         object-fit: cover;
-        margin: auto;
+        margin-left: 20px;
+      }
+
+      .ref .info {
+        flex: 1;
+      }
+
+      .ref .position {
+        font-weight: bold;
+        font-size: 18px;
+      }
+
+      .ref .company {
+        color: #777;
+        margin-bottom: 15px;
+      }
+
+      .ref p {
+        font-style: italic;
+        color: #333;
+        line-height: 1.5;
+      }
+
+      .ref a {
+        display: inline-block;
+        margin-top: 15px;
+        text-decoration: none;
+        color: #0077b5;
+        font-weight: bold;
+      }
+
+      footer {
+        text-align: center;
+        margin-top: 40px;
+        color: #777;
       }
     </style>
   </head>
   <body>
-    <h1>References</h1>
-    <div class="hero-content">
-      <h2>Jeremiah Olamijuwan</h2>
-      <p>
-        <i
-          >Brian really showed me his potential within two weeks of his
-          internship under the JAC internship program
-        </i>
-      </p>
-      <ul>
-        <li>
-          <a href="https://www.linkedin.com/in/thandokuhle-msane-a3b387290">
-            <i class="fab fa-linkedin"></i
-          ></a>
-        </li>
-      </ul>
-      <li></li>
-      <li><i class="fa fa-phone"></i>+27 000 000</li>
-      <li><i class="fa fa-email">msanebrianboss@gmail.com</i></li>
-    </div>
-    <div class="reference-img">
-      <img src="../assets/images/jerry.png" alt="EduSphere" />
-    </div>
+    <main>
+      <h1>References</h1>
+
+      <div class="ref">
+        <div class="info">
+          <div class="position">CEO, eTihuku Technologies</div>
+          <div class="company">Internship Supervisor</div>
+
+          <p>
+            &quot;During his internship at eTihuku Technologies, Brian showcased
+            his skills and ability to learn new things within a short period.
+            All the tasks allocated to him were accomplished on time, and when
+            faced with challenges, he proactively consulted his manager and the
+            data team for solutions. His hunger for knowledge and rapid learning
+            pace led to the success of his first professional internship. Brian
+            also delivered two well-researched presentations during our
+            knowledge-sharing sessions. I can confidently say that in a few
+            years, he will be one of the best Data Scientists.&quot;
+          </p>
+
+          <a href="https://www.linkedin.com/in/brianmsane">View on LinkedIn</a>
+        </div>
+        <img src="../assets/images/brian.jpg" alt="Brian Msane" />
+      </div>
+    </main>
+
+    <footer>
+      <p>&copy; Brian Msane 2025</p>
+    </footer>
   </body>
-  <footer></footer>
 </html>
