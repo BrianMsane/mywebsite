@@ -26,6 +26,7 @@
 
 - Philile (research)
     - research experience
+    - I had the pleasure of working with Brian during the formative stages of the Indaba X Eswatini UNESWA Chapter, where he served as the inaugural President. He played a key role in leading the club's initiatives to promote innovation and AI adoption within the university.  My subsequent collaboration with him and Professor Hatem on the "siSwatiSent: Sentiment Analysis Dataset for siSwati" paper highlighted Brian's significant contributions.  He demonstrated both strong technical abilities and a genuine interest in impactful work, specifically applying innovation to address real-world challenges.  His talent in web scraping and modeling, particularly his experience testing a variety of AI models for sentiment analysis, was invaluable to the project. He possesses a keen intellectual capacity and a proactive attitude.
 
 for each recommendation I need:
 > current position held by reference
