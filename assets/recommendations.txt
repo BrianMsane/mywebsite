@@ -14,21 +14,12 @@
 - Jeremiah (CEO and Chief Data Scientist and eTihuku Technologies)
     - eTihuku intership
     - 
-    during his intership at eTihuku Technologies, brian really showcased his skills and ability to learn within a short period of time.
-    All the tasks allocated to him were accomplished within the given time and if he had challenges, he would consult his manager and the
-    other members of the data team to seek for solutions. what could stick out to me is the hunger for knowledge and the incredible rate of 
-    knowledge absorption which led to the success of his first ever professional intership. it is the culture of our company to have
-    knowledge sharing sessions and he beautifly delivered two well-researched presentations during this intership. I can safely say that in a
-    few years, he will be one of the best data Scientist.
+    During his internship at eTihuku Technologies, Brian really showcased his skills and ability to learn new skills and concepts within a short period of time. All the tasks allocated to him were accomplished within the given time and if he had challenges, he would consult his manager and the other members of the Data Team to seek for solutions. What could stick out to me is the hunger for knowledge and the incredible rate of knowledge absorption which led to the success of his first ever professional internship. It is the culture of our company to knowledge sharing sessions and he beautifully delivered two well-researched presentations during this internship. I can safely say that in a few years, he will be one of the best data scientists.
 
 - Prof Hatem (mentor under DLI mentorship)
     - advising and writing a paper
-    - 
-    I met Brian when he was assigned for my assistance in the deep learning indaba mentoring programme. at the time, he was 
-    planning to do research on sentiment analysis in Swahili and with the little time we had, we were able to start new project
-    from scratch. I encouraged him to collect data on social media platforms, clean, annotate, and visualize it for his own language, siSwati. He came back with a report
-    in just two weeks time and I guided him, together with his colleague, to experiemnt different machine and deep learning models.
-    Thereafter we worked collaboratively on writing a paper title "siSwatiSent: Sentiment Analysis Dataset for siSwati".
+    -
+    I met Brian when he was assigned for my assistance in the Deep Learning Indaba Mentoring Program. At the time, he was planning to do research on sentiment analysis in Swahili and with the little time we had, we were able to start new project from scratch. I encouraged him to collect data on social media platforms, clean, annotate, and visualize it for his own language, siSwati. He came back with a report in just a few weeks time and I guided him, together with his colleague, to experiment different machine and deep learning models. Thereafter we worked collaboratively on writing a paper title "siSwatiSent: Sentiment Analysis Dataset for siSwati". Overall, he is a hard worker and has a desire for learning new things.
 
 - Liam (VP and co-CTO at Nubi)
     - Job at Nubi
